@@ -1,0 +1,1 @@
+git add permet de sélectionner les fichiers que tu veux enregistrer dans ton prochain commit. Les fichiers seront ajouter à staging area.
